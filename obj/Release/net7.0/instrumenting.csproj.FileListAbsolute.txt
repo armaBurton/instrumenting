@@ -1,0 +1,15 @@
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Release\net7.0\instrumenting.exe
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Release\net7.0\instrumenting.deps.json
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Release\net7.0\instrumenting.runtimeconfig.json
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Release\net7.0\instrumenting.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Release\net7.0\instrumenting.pdb
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Release\net7.0\instrumenting.csproj.AssemblyReference.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Release\net7.0\instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Release\net7.0\instrumenting.AssemblyInfoInputs.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Release\net7.0\instrumenting.AssemblyInfo.cs
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Release\net7.0\instrumenting.csproj.CoreCompileInputs.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Release\net7.0\instrumenting.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Release\net7.0\refint\instrumenting.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Release\net7.0\instrumenting.pdb
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Release\net7.0\instrumenting.genruntimeconfig.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Release\net7.0\ref\instrumenting.dll
