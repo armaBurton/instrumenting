@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Diagnostics;
+
+Debug.WriteLine($"Debug says, I am watching.");
+Trace.WriteLine($"Trace says, I am watching.");
