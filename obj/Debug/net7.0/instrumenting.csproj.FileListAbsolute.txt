@@ -13,3 +13,13 @@ D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Debug\net7.0\ref
 D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Debug\net7.0\instrumenting.pdb
 D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Debug\net7.0\instrumenting.genruntimeconfig.cache
 D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Debug\net7.0\ref\instrumenting.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\obj\Debug\net7.0\instrumenting.csproj.CopyComplete
