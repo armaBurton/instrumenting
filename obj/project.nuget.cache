@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hUjrQVhwoQxObP/p1uxl5EFieq2ST9sIi5yx2GIIEyPpdykN/SDcqUsXi0LV7CvMh+Ed+/Vun7H47fG2/Ncu8w==",
+  "dgSpecHash": "7s9htleWcJTZvMzz7s5nkvwNrd64f+DtvkK99Kyw0oyWVA8CjF8UqNbeS0Vz4CJJhh9WqCLfEMAZ2+CGHVmFaA==",
   "success": true,
   "projectFilePath": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter04\\instrumenting\\instrumenting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arman\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\arman\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\arman\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
     "C:\\Users\\arman\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
     "C:\\Users\\arman\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
     "C:\\Users\\arman\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
