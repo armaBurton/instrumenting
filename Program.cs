@@ -23,7 +23,7 @@ ConfigurationBuilder builder = new();
 builder.SetBasePath(Directory.GetCurrentDirectory());
 
 builder.AddJsonFile("appsettings.json",
-  options: true, reloadOnChange: true);
+  optional: true, reloadOnChange: true);
 
 IConfigurationRoot configuration  = builder.Build();
 
