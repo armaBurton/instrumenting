@@ -33,11 +33,9 @@ TraceSwitch ts = new(
 
 configuration.GetSection("PacktSwitch").Bind(ts);
 
-// Trace.WriteLineIf(ts.TraceError, $"Trace Error");
-// Trace.WriteLineIf(ts.TraceWarning, $"Trace Warning");
-// Trace.WriteLineIf(ts.TraceInfo, $"Trace Information");
-// Trace.WriteLineIf(ts.TraceVerbose, $"Trace Verbose");
-
+Trace.WriteLineIf(ts.TraceError, $"Trace Error");
+Trace.WriteLineIf(ts.TraceWarning, $"Trace Warning");
+Trace.WriteLineIf(ts.TraceInfo, $"Trace Information");
 Trace.WriteLineIf(ts.TraceVerbose, "Trace Verbose");
 
 int unitsInStock = 12;
