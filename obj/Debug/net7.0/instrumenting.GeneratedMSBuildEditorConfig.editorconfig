@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = instrumenting
-build_property.ProjectDir = D:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\
+build_property.ProjectDir = d:\001 work\projects\c#\cs11dotnet7\Chapter04\instrumenting\

@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using System;
 using Microsoft.Extensions.Configuration;
 
 string logPath = Path.Combine(Environment.GetFolderPath(
@@ -15,7 +16,7 @@ Trace.AutoFlush = true;
 Debug.WriteLine("Debug says, I am watching!");
 Trace.WriteLine($"Trace says I am watching!");
 
-WriteLine($"Reading from appsettings.json in {0}",
+Console.WriteLine($"Reading from appsettings.json in {0}",
   arg0: Directory.GetCurrentDirectory());
 
 ConfigurationBuilder builder = new();
@@ -41,4 +42,4 @@ Trace.WriteLineIf(ts.TraceVerbose, "Trace Verbose");
 int unitsInStock = 12;
 LogSourceDetails(unitsInStock > 10);
 
-ReadLine();
+Console.ReadLine();
